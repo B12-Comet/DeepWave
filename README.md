@@ -1,6 +1,8 @@
 # Beyond Surface Facts: Deep Graph Augmentation and Wavelet Transform for Temporal Knowledge Graph Completion
 
-![Page_1_docsmall.com](C:\Users\Lenovo\AppData\Local\Temp\Rar$DRa5200.21222.rartemp\Page_1_docsmall.com.jpg)
+![Page_1_docsmall.com](https://raw.githubusercontent.com/B12-Comet/myobsidian/main/img/Page_1_docsmall.com.jpg)
+
+
 
 This paper has been submitted to the TKDE.
 
