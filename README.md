@@ -2,8 +2,6 @@
 
 ![Page_1_docsmall.com](https://raw.githubusercontent.com/B12-Comet/myobsidian/main/img/Page_1_docsmall.com.jpg)
 
-
-
 This paper has been submitted to the TKDE.
 
 ## Installation
