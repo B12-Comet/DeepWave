@@ -1,8 +1,8 @@
 # Beyond Surface Facts: Deep Graph Augmentation and Wavelet Transform for Temporal Knowledge Graph Completion
 
-![模型图](https://raw.githubusercontent.com/B12-Comet/myobsidian/main/img/模型图.jpg)
+<img width="956" height="564" alt="e2500b865e427f822cb9e2bc03fffe63" src="https://github.com/user-attachments/assets/287dfd56-7bfb-43db-b762-7cbfa8adfc05" />
 
-This paper has been submitted to the TKDE.
+
 
 ## Installation
 
@@ -41,8 +41,8 @@ The results are:
 
 | Dataset    | MRR  | H@1  | H@3  | H10  |
 | ---------- | ---- | ---- | ---- | ---- |
-| ICEWS14    | 99.0 | 99.0 | 99.0 | 99.1 |
-| ICEWS05-15 | 99.3 | 99.2 | 99.4 | 99.6 |
+| ICEWS14    | 97.9 | 97.3 | 98.4 | 98.9 |
+| ICEWS05-15 | 97.3 | 97.2 | 97.4 | 97.6 |
 | YAGO15k    | 86.3 | 85.1 | 87.0 | 88.5 |
 
 ## How to run
