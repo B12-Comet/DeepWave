@@ -39,7 +39,7 @@ We use ICEWS14, ICEWS05-15, YAGO15k datasets for temporal knowledge graph link p
 
 The results are:
 
-| Dataset    | MRR  | H@1  | H@3  | H10  |
+| Dataset    | MRR  | H@1  | H@3  | H@10  |
 | ---------- | ---- | ---- | ---- | ---- |
 | ICEWS14    | 97.9 | 97.3 | 98.4 | 98.9 |
 | ICEWS05-15 | 97.3 | 97.2 | 97.4 | 97.6 |
